@@ -1,0 +1,7 @@
+
+#ignore Altium stuff
+.SchDocPreview
+.ZIP
+.PcbLib
+.SchLib
+.PrjPcb
