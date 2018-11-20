@@ -1,2 +1,1 @@
-# BlueTooth Controlled Toy Helicopter 
-
+# Controlled Board and system for Toy Helicopter
