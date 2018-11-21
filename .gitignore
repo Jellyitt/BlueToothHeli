@@ -1,5 +1,6 @@
 __Previews/
 History/
+Project Logs for FlightBoard/
 
 #ignore Altium stuff
 *.SchDocPreview
@@ -7,3 +8,4 @@ History/
 *.PcbLib
 *.SchLib
 *.PrjPcb
+*.PrjPcbStructure
